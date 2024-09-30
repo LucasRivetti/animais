@@ -1,7 +1,7 @@
 
 import './Banner.css'
 
-function Banner() {
+const Banner = () => {
     //parece html mas é JSX
     return(
         <header className="banner">
