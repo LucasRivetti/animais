@@ -4,8 +4,8 @@ import Formulario from './components/Formulario/inderx';
 function App() {
   return (
     <div className="App">
-      <Banner/>
-      <Formulario/>
+      <Banner />
+      <Formulario />
     </div>
   );
 }
